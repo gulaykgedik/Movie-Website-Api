@@ -26,3 +26,6 @@ bu sayede farklı cihazlarda düzgün görüntülenmektedir.
 
 ## Ekran Görüntüsü
 <br/>
+![anime](https://github.com/user-attachments/assets/cdb8a7ed-defb-42b9-86dd-906752bcfe97)
+
+Saygılarımla....
